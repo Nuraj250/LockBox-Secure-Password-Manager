@@ -1,0 +1,11 @@
+# Ignore database and encryption key
+database/lockbox.db
+database/key.key
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
