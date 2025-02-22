@@ -118,5 +118,5 @@ For questions or suggestions, feel free to **open an issue** or **contact me** v
 
 ---
 
-🔥 **Developed with ❤️ by [Your Name]** 🔥
+🔥 **Developed with ❤️ by Nuraj** 🔥
 
