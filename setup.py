@@ -14,8 +14,8 @@ setup(
             "lockbox = frontend.app:main"
         ]
     },
-    author="Your Name",
+    author="Nuraj",
     description="A secure password manager with encryption and a PyQt-based UI",
     license="MIT",
-    url="https://github.com/your-repo/LockBox-Secure-Password-Manager"
+    url="https://github.com/Nuraj250/LockBox-Secure-Password-Manager"
 )
