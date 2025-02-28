@@ -60,7 +60,7 @@ lockbox-password-manager/
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-repo/LockBox-Secure-Password-Manager.git
+   git clone https://github.com/Nuraj250/LockBox-Secure-Password-Manager.git
    cd LockBox-Secure-Password-Manager
    ```
 
